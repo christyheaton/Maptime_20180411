@@ -1,11 +1,12 @@
-## Intro to Spatial Analysis and Maps for Maptime Seattle April 2018
+## **Intro to Spatial Analysis and Maps with Python** for Maptime Seattle April 2018
 
 *Add link to slides
 
-### Sources
+### Data Sources
 
 * [Eclipse Data Source](http://xjubier.free.fr/en/site_pages/SolarEclipsesGoogleEarth.html)
 * [City Data Source](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/)
+* Other sources are noted in the Jupyter Notebooks in this project
 
 ### Getting Started
 
