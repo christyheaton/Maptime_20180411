@@ -20,7 +20,7 @@
 cd [location where you saved the repo]/Maptime_20180411
 ```
 
-Create the Conda environent you will need to run the tutorial. Note: it is called `geopandasenv`. **This could take as long as XX minutes.**
+Create the Conda environent you will need to run the tutorial. Note: it is called `geopandasenv`. **This took me about 10 minutes to finish.**
 
 ```bash
 conda env create environment.yml
@@ -39,7 +39,7 @@ activate geopandasenv  # Windows.
 jupyter notebook
 ```
 
-* If you ever want to deactivate the geopandasenv environment, type in the following into your Anacaonda prompt
+* If you ever want to deactivate the geopandasenv environment, type in the following:
 
 ```bash
 source deactivate geopandasenv  # OSX and Linux
