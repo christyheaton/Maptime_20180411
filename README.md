@@ -42,6 +42,6 @@ jupyter notebook
 * If you ever want to deactivate the geopandasenv environment, type in the following:
 
 ```bash
-source deactivate geopandasenv  # OSX and Linux
-deactivate geopandasenv  # Windows.
+source deactivate  # OSX and Linux
+deactivate  # Windows.
 ```
