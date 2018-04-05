@@ -1,6 +1,6 @@
 ## **Intro to Spatial Analysis and Maps with Python** for Maptime Seattle April 2018
 
-*Add link to slides
+*[Slides](https://docs.google.com/presentation/d/1bgnhRya1uaoB33nuqS2wNn6fboWoDjUWG5noWifhnKQ/edit?usp=sharing)
 
 ### Data Sources
 
