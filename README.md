@@ -10,17 +10,19 @@
 
 ### Getting Started
 
-* If you are familiar with [GitHub](http://www.github.com), fork and clone [the repository](https://github.com/christyheaton/Maptime_20180411). If not, download the repository and unzip to a working directory. Take note of where you save it!
+* If you are familiar with [GitHub](http://www.github.com), fork (if you wish) and clone [the repository](https://github.com/christyheaton/Maptime_20180411). If not, download the repository and unzip to a working directory. Take note of where you save it!
 
-* Install [Miniconda](https://conda.io/miniconda.html) for your operating system. Please choose the latest Python 3.x version.
+* Install [Miniconda](https://conda.io/miniconda.html) for your operating system. Please choose the latest Python 3.x version. The [installation instructions](https://conda.io/docs/user-guide/install/index.html#regular-installation) might be helpful.
 
-* You should now have access to an Anaconda command prompt, open it like you would any program. Note that you should see `(base)` somewhere in your prompt. This means you're in the base Conda environment, which we will now change. Navigate to the directory containing environment.yml (included in the repo).
+* You should now have access to an Anaconda command prompt, open it like you would any program. Note that you should see `(base)` somewhere in your prompt. This means you're in the base Conda environment, which we will now change. 
+
+Navigate to the directory containing environment.yml (included in the repo).
 
 ```bash
 cd [location where you saved the repo]/Maptime_20180411
 ```
 
-Create the Conda environent you will need to run the tutorial. Note: it is called `geopandasenv`. **This took me about 10 minutes to finish.**
+* Create the Conda environent you will need to run the tutorial. Note: it is called `geopandasenv`. **This could take anywhere from 10-30 minutes to finish.**
 
 ```bash
 conda env create environment.yml
