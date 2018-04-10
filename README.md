@@ -10,7 +10,7 @@
 
 ### Getting Started
 
-* If you are familiar with [GitHub](http://www.github.com), fork (if you wish) and clone [the repository](https://github.com/christyheaton/Maptime_20180411). If not, download the repository and unzip to a working directory. Take note of where you save it!
+* If you are familiar with [GitHub](http://www.github.com), fork (if you wish) and clone [the repository](https://github.com/christyheaton/Maptime_20180411). If not, download the repository and unzip to a working directory. Take note of where you put it!
 
 * Install [Miniconda](https://conda.io/miniconda.html) for your operating system. Please choose the latest Python 3.x version. The [installation instructions](https://conda.io/docs/user-guide/install/index.html#regular-installation) might be helpful.
 
